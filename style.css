@@ -1,0 +1,31 @@
+.bendrasaukstis {
+  height: 800px;
+}
+.marginaukstis {
+  height: 800px;
+}
+.galleryaukstis {
+  height: 400px;
+}
+.titleaukstis {
+  height: 50px;
+}
+.boxaukstis {
+  height: 345px;
+}
+.daukstis {
+  height: 200px;
+}
+.raukstis {
+  height: 188px;
+}
+
+.blue {
+  background: #2a9df4;
+}
+
+
+p {
+  color: white;
+  font-size: 30px;
+}
